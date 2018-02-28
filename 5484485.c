@@ -1,9 +1,8 @@
 #include <stdio.h>
- 
+ #include<conio.h>
 void main()
 {
     long num, temp, digit, sum = 0;
- 
     printf("Enter the number \n");
     scanf("%ld", &num);
     temp = num;
